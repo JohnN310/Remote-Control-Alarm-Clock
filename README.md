@@ -10,11 +10,12 @@ Buzzer
 LEDs (for display)
 Jumper wires
 Breadboard
+
 ## Project Setup
-Connect the RTC module to the Arduino board for accurate timekeeping.
-Wire the LEDs to the Arduino to serve as the display.
-Connect the buzzer to the Arduino for audio feedback during the alarm.
-Set up the IR receiver module and wire it to the Arduino to enable remote control functionality.
+1. Connect the RTC module to the Arduino board for accurate timekeeping.
+2. Wire the LEDs to the Arduino to serve as the display.
+3. Connect the buzzer to the Arduino for audio feedback during the alarm.
+4. Set up the IR receiver module and wire it to the Arduino to enable remote control functionality.
 ## Arduino Code
 The project's Arduino code is available in the 'alarm_clock_remote_control.ino' file. The code, written in C++, can be easily uploaded to your Arduino board using the Arduino IDE. Make sure to install the required libraries for the RTC module and IR remote control kit before uploading the code.
 
@@ -22,23 +23,24 @@ The project's Arduino code is available in the 'alarm_clock_remote_control.ino' 
 Elegoo tools, especially the IR remote control kit, play a crucial role in facilitating remote control functionality in the project. The kit provides a user-friendly solution for integrating infrared communication into Arduino projects.
 
 ## Remote Control Functions
-Display Control:
-
+1. Display Control:
 Toggle the display on and off with the remote control.
-Clock Setting:
 
+2. Clock Setting:
 Use the remote control to set the current time on the clock.
-Alarm Setting:
 
+3. Alarm Setting:
 Set the desired alarm time remotely.
-Buzzer Activation:
 
+4. Buzzer Activation:
 Activate the buzzer remotely when the alarm goes off.
+
 ## How to Use
-Upload the provided Arduino code to your Arduino board.
-Connect all components following the project setup instructions.
-Power on the Arduino board.
-Use the Elegoo IR remote control to manage display, set the clock, set the alarm, and control the buzzer.
+1. Upload the provided Arduino code to your Arduino board.
+2. Connect all components following the project setup instructions.
+3. ower on the Arduino board.
+4. Use the Elegoo IR remote control to manage the display, set the clock, set the alarm, and control the buzzer.
+   
 ## Notes
 The project code is customizable, allowing users to add features or modify alarm settings.
 Ensure the RTC module is correctly set to your local time.
@@ -46,3 +48,4 @@ Experiment with additional components and functionalities to enhance the project
 Feel free to contribute to the project and share your enhancements with the community!
 
 Author
+Khoa (John) Nguyen
