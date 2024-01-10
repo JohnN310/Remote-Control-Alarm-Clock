@@ -1,4 +1,5 @@
 # Arduino Alarm Clock Controlled by Remote
+![plot](C:\Users\anhkh\Downloads\IMG-1111.jpg)
 ## Project Overview
 This Arduino-based project features an alarm clock with remote control capabilities. The system allows users to control various functions, including turning the display on and off, setting the clock, setting the alarm, and activating a buzzer when the alarm goes off. The project leverages Arduino hardware and Elegoo tools for seamless integration.
 
