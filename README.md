@@ -3,13 +3,13 @@
 This Arduino-based project features an alarm clock with remote control capabilities. The system allows users to control various functions, including turning the display on and off, setting the clock, setting the alarm, and activating a buzzer when the alarm goes off. The project leverages Arduino hardware and Elegoo tools for seamless integration.
 
 ## Components Used
-Arduino Board (e.g., Arduino Uno)
-Elegoo Infrared (IR) Remote Control Kit
-Real-Time Clock (RTC) Module
-Buzzer
-LEDs (for display)
-Jumper wires
-Breadboard
+1. Arduino Board (e.g., Arduino Uno)
+2. Elegoo Infrared (IR) Remote Control Kit
+3. Real-Time Clock (RTC) Module
+4. Buzzer
+5. LEDs (for display)
+6. Jumper wires
+7. Breadboard
 
 ## Project Setup
 1. Connect the RTC module to the Arduino board for accurate timekeeping.
